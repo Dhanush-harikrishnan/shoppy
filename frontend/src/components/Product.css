@@ -1,0 +1,39 @@
+.product-card {
+    max-width: 300px; 
+  }
+  
+  .product-card .card-img-top {
+    height: 200px; 
+    object-fit: cover;
+  }
+  
+  .product-card .card-body {
+    padding: 1rem;
+  }
+  
+  .product-card .card-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+  
+  .product-card .card-text {
+    font-size: 1rem;
+    color: #555;
+  }
+  
+  .product-card .btn {
+    margin-top: 1rem;
+  }
+
+  .rating-text {
+    font-size: 0.8rem;
+    font-weight:600;
+    padding-left: 0.5rem;
+  }
+
+  .product-title {
+    height: 2.5 rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }

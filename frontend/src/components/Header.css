@@ -1,0 +1,20 @@
+header {
+    background-color: #343a40;
+    padding: 10px 0;
+  }
+  
+  header .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff;
+  }
+  
+  header .navbar-nav .nav-link {
+    font-size: 1.1rem;
+    color: #ffffff !important;
+  }
+  
+  header .navbar-nav .nav-link:hover {
+    color: #d1d1d1 !important;
+  }
+  

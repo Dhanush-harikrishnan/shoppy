@@ -1,0 +1,17 @@
+.rating {
+    display: flex;
+    align-items: center;
+    margin: 10px 0;
+  }
+  
+  .rating span {
+    color: #f8e825;
+    margin-right: 5px;
+  }
+  
+  .rating span:last-child {
+    margin-left: 10px;
+    color: #555;
+    font-size: 0.9rem;
+  }
+  
