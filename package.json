@@ -1,5 +1,4 @@
 {
-  "homepage": "https://github.com/Dhanush-harikrishnan/shoppy.git",
   "name": "shoppy",
   "version": "2.0.0",
   "description": "eCommerce application",
@@ -11,9 +10,7 @@
     "client": "npm start --prefix frontend",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
     "data:import": "node backend/seeder.js",
-    "data:destroy": "node backend/seeder.js -d",
-    "predeploy": "npm run build",
-     "deploy": "gh-pages -d build"
+    "data:destroy": "node backend/seeder.js -d"
   },
   "author": "Dhanush H",
   "license": "MIT",
