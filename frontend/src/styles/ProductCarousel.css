@@ -1,0 +1,27 @@
+/* ProductCarousel.css */
+
+.carousel {
+    background-color: #343a40; /* Dark background color for the carousel */
+    padding: 20px; /* Padding around the carousel */
+  }
+  
+  .carousel-item .back {
+    background-color: #ee2020; /* White background color for the area around the image */
+    max-height: 400px; /* Adjust as needed */
+    object-fit: cover; /* Ensure the image covers the area */
+    border-radius: 10px; /* Rounded corners for a smooth look */
+    margin: 0 auto; /* Center the image */
+  }
+  
+  .carousel-caption {
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent black background for caption */
+    padding: 10px; /* Padding for caption */
+    border-radius: 5px; /* Rounded corners for caption */
+  }
+  
+  .carousel-caption h2 {
+    color: #ffc107; /* Highlight color for text */
+    font-size: 1.5rem; /* Font size for text */
+  }
+  
+  

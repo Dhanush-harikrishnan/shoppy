@@ -1,0 +1,49 @@
+.product-card {
+    margin: 15px 0;
+    padding: 15px;
+    border-radius: 10px;
+    transition: transform 0.2s;
+  }
+  
+  .product-card:hover {
+    transform: scale(1.05);
+  }
+  
+  .product-card img {
+    border-radius: 10px;
+  }
+  
+  .product-title {
+    font-size: 1.5rem;
+    color: #555;
+  }
+  
+  .product-rating {
+    margin: 10px 0;
+  }
+  
+  .product-price {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #007bff;
+  }
+  .nameproduct {
+    height: 2.5 rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    color:rgb(58, 56, 56);
+   
+    
+  }
+ 
+  .link{
+    text-decoration: none;
+  }
+  .card-img-top {
+    width: 100%; /* Ensures the image takes up the full width of the card */
+    height: 200px; /* Fixed height */
+    object-fit: cover; /* Ensures the image is resized to cover the entire area, maintaining aspect ratio */
+  }
+  
+  

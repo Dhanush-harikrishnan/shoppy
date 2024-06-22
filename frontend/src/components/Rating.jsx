@@ -1,5 +1,5 @@
 import { FaStar, FaStarHalfAlt, FaRegStar } from 'react-icons/fa';
-
+import '../styles/Rating.css'
 const Rating = ({ value, text, color }) => {
   return (
     <div className='rating'>

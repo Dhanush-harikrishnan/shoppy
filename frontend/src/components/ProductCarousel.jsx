@@ -2,6 +2,7 @@ import { Link } from 'react-router-dom';
 import { Carousel, Image } from 'react-bootstrap';
 import Message from './Message';
 import { useGetTopProductsQuery } from '../slices/productsApiSlice';
+import '../styles/ProductCarousel.css'
 
 const ProductCarousel = () => {
   const { data: products, isLoading, error } = useGetTopProductsQuery();
@@ -16,7 +17,7 @@ const ProductCarousel = () => {
             <Image src={product.image} alt={product.name} fluid />
             <Carousel.Caption className='carousel-caption'>
               <h2 className='text-white text-right'>
-                {product.name} (${product.price})
+                {product.name} (₹{product.price})
               </h2>
             </Carousel.Caption>
           </Link>

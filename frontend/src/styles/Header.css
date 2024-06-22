@@ -1,0 +1,57 @@
+
+/* Header.css */
+
+.navbar {
+    background-color: #343a40; /* Dark background */
+    border-bottom: 1px solid #495057; /* Subtle border */
+  }
+  
+  .navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ffffff; /* Highlight color for brand name */
+  }
+  
+  .navbar-brand:hover {
+    color: #ffc107; /* Slightly lighter on hover */
+  }
+  
+  .navbar-toggler {
+    border: none;
+  }
+  
+  .navbar-toggler:focus,
+  .navbar-toggler:active {
+    outline: none;
+    box-shadow: none;
+  }
+  
+  .navbar-collapse {
+    justify-content: flex-end;
+  }
+  
+  .nav-link {
+    color: #fff; /* Light color for nav links */
+    margin-right: 1rem;
+  }
+  
+  
+  .badge-pill {
+    background-color: #28a745; /* Green background for the badge */
+  }
+  
+  .nav-dropdown-item {
+    color: #343a40; /* Dark grey for dropdown items */
+  }
+  
+  .nav-dropdown-item:hover {
+    background-color: #e9ecef; /* Light grey hover effect */
+    color: #343a40; /* Dark grey text color */
+  }
+  
+  .navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='%23f8f9fa' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E");
+  }
+  .bg{
+    background-color: #5a5d5f; /* Dark background color */
+  }

@@ -1,0 +1,15 @@
+/* Footer.css */
+
+footer {
+    background-color: #343a40; /* Dark background color */
+    color: #f8f9fa; /* Light text color */
+    padding: 20px 0; /* Vertical padding */
+  }
+  
+  footer p {
+    margin: 0; /* Remove default margin */
+    font-size: 1rem; /* Font size for the text */
+  }
+  
+
+  

@@ -1,0 +1,22 @@
+/* Paginate.css */
+
+.pagination {
+    justify-content: center; /* Centers the pagination component */
+  }
+  
+  .pagination .page-item .page-link {
+    color: #6c757d; /* Grey color for pagination items */
+  }
+  
+  .pagination .page-item.active .page-link {
+    background-color: #6c757d; /* Grey background for active item */
+    border-color: #6c757d; /* Grey border for active item */
+    color: white; /* White text for active item */
+  }
+  
+  .pagination .page-item .page-link:hover {
+    background-color: #dcdcdc; /* Light grey for hover state */
+    border-color: #dcdcdc; /* Light grey border for hover state */
+    color: black; /* Black text for hover state */
+  }
+  
