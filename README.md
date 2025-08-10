@@ -157,29 +157,6 @@ npm start
 - **Backend API**: http://localhost:5000
 - **API Documentation**: http://localhost:5000/api-docs
 
-## 📸 Screenshots
-
-### Homepage
-![Homepage Screenshot](./docs/screenshots/homepage.png)
-*Modern, responsive homepage with featured products*
-
-### Product Catalog
-![Product Catalog](./docs/screenshots/products.png)
-*Advanced filtering and search functionality*
-
-### Shopping Cart
-![Shopping Cart](./docs/screenshots/cart.png)
-*Intuitive cart management with real-time updates*
-
-### Admin Dashboard
-![Admin Dashboard](./docs/screenshots/admin.png)
-*Comprehensive admin panel for store management*
-
-## 🎬 Demo
-
-![Shoppy Demo](./docs/demo/shoppy-demo.gif)
-*Complete shopping experience walkthrough*
-
 ## 🧪 Testing
 
 ```bash
@@ -249,8 +226,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Dhanush Harikrishnan**
 - GitHub: [@Dhanush-harikrishnan](https://github.com/Dhanush-harikrishnan)
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/dhanush1505/)
+- Email: dhanushhari150504@gmail.com
 
 ## 🙏 Acknowledgments
 
